@@ -1,0 +1,25 @@
+{
+  "name": "moviesapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogercamps/moviesApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogercamps/moviesApp/issues"
+  },
+  "homepage": "https://github.com/rogercamps/moviesApp#readme",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "description": ""
+}
